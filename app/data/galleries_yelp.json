@@ -1,0 +1,965 @@
+{
+    "data": {
+        "search": {
+            "business": [
+                {
+                    "name": "Le Jardin",
+                    "phone": "+15046800133",
+                    "location": {
+                        "address1": "612 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 20,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Studio Be",
+                    "phone": "+15042520463",
+                    "location": {
+                        "address1": "2941 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 70,
+                    "price": "$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ashley Longshore Studio Gallery",
+                    "phone": "+19172620607",
+                    "location": {
+                        "address1": "43 Crosby St",
+                        "city": "New York",
+                        "state": "NY",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 21,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Terrance Osborne Gallery",
+                    "phone": "+15042327530",
+                    "location": {
+                        "address1": "3029 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 15,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Octavia Art Gallery",
+                    "phone": "+15043094249",
+                    "location": {
+                        "address1": "700 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 2,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gallery Rinard",
+                    "phone": "+15045226536",
+                    "location": {
+                        "address1": "611 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 18,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Z\u00e8le NOLA",
+                    "phone": "+15044500789",
+                    "location": {
+                        "address1": "2841 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 35,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        },
+                        {
+                            "title": "Jewelry"
+                        },
+                        {
+                            "title": "Home Decor"
+                        }
+                    ]
+                },
+                {
+                    "name": "Big Sexy Neon",
+                    "phone": "+19193952759",
+                    "location": {
+                        "address1": "1618 Oretha Castle Haley Blvd",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 6,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gallery B Fos",
+                    "phone": "+15044442967",
+                    "location": {
+                        "address1": "2138 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 15,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Beata Sasik Gallery",
+                    "phone": "+19852884170",
+                    "location": {
+                        "address1": "541 Julia St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 1,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Art Garden & Floating Gallery",
+                    "phone": "+15049126668",
+                    "location": {
+                        "address1": "613 Frenchmen St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 9,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Antieau Gallery",
+                    "phone": "+15043040849",
+                    "location": {
+                        "address1": "927 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 15,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "LeMieux Galleries",
+                    "phone": "+15045225988",
+                    "location": {
+                        "address1": "332 Julia St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 8,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        },
+                        {
+                            "title": "Framing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Michalopoulos",
+                    "phone": "+15045580505",
+                    "location": {
+                        "address1": "617 Bienville St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 4,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sutton Galleries",
+                    "phone": "+15045811914",
+                    "location": {
+                        "address1": "519 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 15,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Caliche & Pao Gallery",
+                    "phone": "+15045882846",
+                    "location": {
+                        "address1": "307 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 6,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ogden Museum of Southern Art",
+                    "phone": "+15045399600",
+                    "location": {
+                        "address1": "925 Camp St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 140,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Museums"
+                        }
+                    ]
+                },
+                {
+                    "name": "Arthur Roger Gallery",
+                    "phone": "+15045221999",
+                    "location": {
+                        "address1": "432 Julia St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 7,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Funeral Gallery",
+                    "phone": "+15046036038",
+                    "location": {
+                        "address1": "811 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 7,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Martine Chaisson Gallery",
+                    "phone": "+15043027942",
+                    "location": {
+                        "address1": "727 Camp St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 2,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cody Walsh Fine Art & Custom Framing",
+                    "phone": "+15048852330",
+                    "location": {
+                        "address1": "4436 Veterans Memorial Blvd",
+                        "city": "Metairie",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 2,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Contemporary Arts Center",
+                    "phone": "+15045283805",
+                    "location": {
+                        "address1": "900 Camp St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 32,
+                    "price": "$",
+                    "categories": [
+                        {
+                            "title": "Performing Arts"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        },
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "O'Neill Studios",
+                    "phone": "+15045270703",
+                    "location": {
+                        "address1": "721 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 4,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Artist's Market",
+                    "phone": "+15045610046",
+                    "location": {
+                        "address1": "1228 Decatur St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 11,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        },
+                        {
+                            "title": "Arts & Crafts"
+                        }
+                    ]
+                },
+                {
+                    "name": "Frame City & Art Gallery",
+                    "phone": "+15048879146",
+                    "location": {
+                        "address1": "3544 W Esplanade Ave S",
+                        "city": "Metairie",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 5,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        },
+                        {
+                            "title": "Framing"
+                        }
+                    ]
+                },
+                {
+                    "name": "Windsor Fine Art",
+                    "phone": "+15045860202",
+                    "location": {
+                        "address1": "221 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 3,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Collective Shop",
+                    "phone": "",
+                    "location": {
+                        "address1": "3512 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 25,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Gift Shops"
+                        },
+                        {
+                            "title": "Jewelry"
+                        },
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Palace Market Frenchmen",
+                    "phone": "",
+                    "location": {
+                        "address1": "619 Frenchmen St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 21,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cole Pratt Gallery",
+                    "phone": "+15048916789",
+                    "location": {
+                        "address1": "3800 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 1,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Esom Art",
+                    "phone": "+12252026405",
+                    "location": {
+                        "address1": "3935 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 3,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        },
+                        {
+                            "title": "Art Installation"
+                        },
+                        {
+                            "title": "Commissioned Artists"
+                        }
+                    ]
+                },
+                {
+                    "name": "Angela King Gallery",
+                    "phone": "+15045248211",
+                    "location": {
+                        "address1": "241 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 12,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Market at Dat Dog",
+                    "phone": "",
+                    "location": {
+                        "address1": "3336 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 4,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        },
+                        {
+                            "title": "Arts & Crafts"
+                        },
+                        {
+                            "title": "Flea Markets"
+                        }
+                    ]
+                },
+                {
+                    "name": "Thomas Mann Design",
+                    "phone": "+15045812111",
+                    "location": {
+                        "address1": "500 Napoleon Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 6,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Jewelry"
+                        },
+                        {
+                            "title": "Art Galleries"
+                        },
+                        {
+                            "title": "Art Schools"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Front",
+                    "phone": "",
+                    "location": {
+                        "address1": "4100 St Claude Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 2,
+                    "price": "$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "A Gallery For Fine Photography",
+                    "phone": "+15045681313",
+                    "location": {
+                        "address1": "241 Chartres St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 15,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "New Orleans Glassworks & Printmaking Studio",
+                    "phone": "+15045297279",
+                    "location": {
+                        "address1": "727 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 39,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Simon of New Orleans",
+                    "phone": "+15045248201",
+                    "location": {
+                        "address1": "1028 Jackson Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 14,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "NOLA 'Nacular",
+                    "phone": "+15042988698",
+                    "location": {
+                        "address1": "1172 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 1,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "B Fos",
+                    "phone": "+15046132330",
+                    "location": {
+                        "address1": "700 Tchoupitoulas St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 4,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rodrigue Studio",
+                    "phone": "+15045814244",
+                    "location": {
+                        "address1": "730 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 16,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Disco Warehouse",
+                    "phone": "+15045715622",
+                    "location": {
+                        "address1": "3101 Tchoupitoulas St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 20,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Furniture Stores"
+                        },
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fire House Loft",
+                    "phone": "+15042332385",
+                    "location": {
+                        "address1": "4523 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 1,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Venues & Event Spaces"
+                        },
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gallery 600 Julia",
+                    "phone": "+15048957375",
+                    "location": {
+                        "address1": "600 Julia St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 1,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alex Beard Studio",
+                    "phone": "+15043090394",
+                    "location": {
+                        "address1": "3926 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 1,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Aquarium Gallery and Studios",
+                    "phone": "+15047010511",
+                    "location": {
+                        "address1": "934 Montegut St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 2,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Callan Contemporary",
+                    "phone": "+15045250518",
+                    "location": {
+                        "address1": "518 Julia St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 2,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Harouni Gallery",
+                    "phone": "+15042994393",
+                    "location": {
+                        "address1": "933 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 6,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                },
+                {
+                    "name": "Space Sanctuary",
+                    "phone": "+15043018201",
+                    "location": {
+                        "address1": "4321 St Claude Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 2.5,
+                    "review_count": 3,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        },
+                        {
+                            "title": "Meditation Centers"
+                        }
+                    ]
+                },
+                {
+                    "name": "Byrdie's",
+                    "phone": "",
+                    "location": {
+                        "address1": "2402 St Claude Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 25,
+                    "price": "$",
+                    "categories": [
+                        {
+                            "title": "Arts & Crafts"
+                        },
+                        {
+                            "title": "Art Schools"
+                        }
+                    ]
+                },
+                {
+                    "name": "Adrian Fulton Art Galleries",
+                    "phone": "+13376583274",
+                    "location": {
+                        "address1": "618 Conti St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 7,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Art Galleries"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

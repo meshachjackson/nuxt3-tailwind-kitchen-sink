@@ -1,0 +1,950 @@
+{
+    "data": {
+        "search": {
+            "business": [
+                {
+                    "name": "The Roosevelt New Orleans, A Waldorf Astoria Hotel",
+                    "phone": "+15046481200",
+                    "location": {
+                        "address1": "130 Roosevelt Way",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 595,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotel Monteleone",
+                    "phone": "+15045233341",
+                    "location": {
+                        "address1": "214 Royal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 885,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotel Le Marais",
+                    "phone": "+15045252300",
+                    "location": {
+                        "address1": "717 Conti St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 171,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Courtyard by Marriott New Orleans French Quarter/Iberville",
+                    "phone": "+18558166193",
+                    "location": {
+                        "address1": "910 Iberville St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 176,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "French Market Inn",
+                    "phone": "+18886262725",
+                    "location": {
+                        "address1": "509 Decatur St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 386,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Chloe",
+                    "phone": "+15045415500",
+                    "location": {
+                        "address1": "4125 St Charles Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 166,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Cocktail Bars"
+                        },
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Cajun/Creole"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dauphine Orleans Hotel",
+                    "phone": "+15045861800",
+                    "location": {
+                        "address1": "415 Dauphine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 291,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Ritz-Carlton, New Orleans",
+                    "phone": "+15045241331",
+                    "location": {
+                        "address1": "921 Canal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 477,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Virgin Hotels New Orleans",
+                    "phone": "+18337917700",
+                    "location": {
+                        "address1": "550 Baronne St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 80,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Olivier House Hotel",
+                    "phone": "+15045258456",
+                    "location": {
+                        "address1": "828 Toulouse St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 167,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Terrell House Bed & Breakfast",
+                    "phone": "+15042372076",
+                    "location": {
+                        "address1": "1441 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 39,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Bed & Breakfast"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bourbon Orleans Hotel",
+                    "phone": "+15045232222",
+                    "location": {
+                        "address1": "717 Orleans St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 373,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Omni Royal Orleans",
+                    "phone": "+15045295333",
+                    "location": {
+                        "address1": "621 St Louis St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 411,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Eliza Jane - The Unbound Collection by Hyatt",
+                    "phone": "+15048821234",
+                    "location": {
+                        "address1": "315 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 167,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotel Saint Vincent",
+                    "phone": "+15043502450",
+                    "location": {
+                        "address1": "1507 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 43,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Henry Howard Hotel",
+                    "phone": "+15043131577",
+                    "location": {
+                        "address1": "2041 Prytania St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 44,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Drury Plaza Hotel New Orleans",
+                    "phone": "+15045297800",
+                    "location": {
+                        "address1": "820 Poydras St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 176,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Four Points by Sheraton French Quarter",
+                    "phone": "+18558166193",
+                    "location": {
+                        "address1": "541 Bourbon St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 226,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Pontchartrain Hotel",
+                    "phone": "+15043231400",
+                    "location": {
+                        "address1": "2031 St Charles Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 122,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Royal Sonesta New Orleans",
+                    "phone": "+15045860300",
+                    "location": {
+                        "address1": "300 Bourbon St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 546,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Kimpton Hotel Fontenot",
+                    "phone": "+15045711818",
+                    "location": {
+                        "address1": "501 Tchoupitoulas St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 55,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Windsor Court",
+                    "phone": "+18002622662",
+                    "location": {
+                        "address1": "300 Gravier St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 230,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "JW Marriott New Orleans",
+                    "phone": "+15045256500",
+                    "location": {
+                        "address1": "614 Canal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 101,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Haunted Hotel",
+                    "phone": "+15043739319",
+                    "location": {
+                        "address1": "623 Ursulines Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 52,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Residence Inn by Marriott New Orleans Metairie",
+                    "phone": "+15048320888",
+                    "location": {
+                        "address1": "Three Galleria Boulevard",
+                        "city": "Metairie",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 36,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hampton Inn New Orleans French Quarter Market Area",
+                    "phone": "+15043810041",
+                    "location": {
+                        "address1": "501 Elysian Fields",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 5,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hampton Inn New Orleans-St. Charles Ave./Garden District",
+                    "phone": "+15048999990",
+                    "location": {
+                        "address1": "3626 St Charles Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 80,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Four Seasons Hotel - New Orleans",
+                    "phone": "+15044345100",
+                    "location": {
+                        "address1": "2 Canal St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 44,
+                    "price": "$$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bienville House Hotel",
+                    "phone": "+15045292345",
+                    "location": {
+                        "address1": "320 Decatur St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 200,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Canopy by Hilton New Orleans Downtown",
+                    "phone": "+15043542850",
+                    "location": {
+                        "address1": "1100 Tulane Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 33,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Renaissance New Orleans Arts Warehouse District Hotel",
+                    "phone": "+15046132330",
+                    "location": {
+                        "address1": "700 Tchoupitoulas St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 202,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Quinta Inn by Wyndham New Orleans West Bank / Gretna",
+                    "phone": "+15043685600",
+                    "location": {
+                        "address1": "50 Terry Pkwy",
+                        "city": "Gretna",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 2.0,
+                    "review_count": 73,
+                    "price": "$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Higgins Hotel New Orleans, Curio Collection by Hilton",
+                    "phone": "+15045281941",
+                    "location": {
+                        "address1": "1000 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 67,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Treme Hotel",
+                    "phone": "+15048278733",
+                    "location": {
+                        "address1": "1933 Ursulines Ave",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 67,
+                    "price": "$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Maison De La Luz",
+                    "phone": "+15048147720",
+                    "location": {
+                        "address1": "546 Carondelet St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 25,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Guest Houses"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hyatt Centric French Quarter New Orleans",
+                    "phone": "+15045860800",
+                    "location": {
+                        "address1": "800 Iberville St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 306,
+                    "price": "$$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Home2 Suites by Hilton Kenner New Orleans Airport",
+                    "phone": "+15048004357",
+                    "location": {
+                        "address1": "1112 Veteran Memorial Blvd",
+                        "city": "Kenner",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.5,
+                    "review_count": 9,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Renaissance New Orleans Pere Marquette French Quarter Area Hotel",
+                    "phone": "+15045251111",
+                    "location": {
+                        "address1": "817 Common St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 311,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Audubon Cottages",
+                    "phone": "+15045861516",
+                    "location": {
+                        "address1": "509 Dauphine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 20,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Guest Houses"
+                        }
+                    ]
+                },
+                {
+                    "name": "Best Western Plus Westbank",
+                    "phone": "+15043665369",
+                    "location": {
+                        "address1": "1700 Lapalco Blvd",
+                        "city": "Harvey",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 31,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hampton Inn & Suites New Orleans-Elmwood/Clearview Parkway Area",
+                    "phone": "+15047335646",
+                    "location": {
+                        "address1": "5150 Mounes St",
+                        "city": "Harahan",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 35,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hyatt House New Orleans/Downtown",
+                    "phone": "+15046483118",
+                    "location": {
+                        "address1": "1250 Poydras St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 89,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Comfort Inn New Orleans Airport South",
+                    "phone": "+15044435100",
+                    "location": {
+                        "address1": "10151 Airline Hwy",
+                        "city": "Saint Rose",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 23,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hilton New Orleans Airport",
+                    "phone": "+15044695000",
+                    "location": {
+                        "address1": "901 Airline Dr",
+                        "city": "Kenner",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 2.5,
+                    "review_count": 132,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "Holiday Inn New Orleans West Bank Tower",
+                    "phone": "+15043668535",
+                    "location": {
+                        "address1": "275 Whitney Ave",
+                        "city": "Gretna",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 67,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Le Pavillon Hotel",
+                    "phone": "+15045813111",
+                    "location": {
+                        "address1": "833 Poydras St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.5,
+                    "review_count": 624,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Garden District Bed & Breakfast",
+                    "phone": "+15048954302",
+                    "location": {
+                        "address1": "2418 Magazine St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 5.0,
+                    "review_count": 22,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Bed & Breakfast"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sully Mansion Bed & Breakfast",
+                    "phone": "+15046440624",
+                    "location": {
+                        "address1": "2631 Prytania St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 60,
+                    "price": null,
+                    "categories": [
+                        {
+                            "title": "Bed & Breakfast"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotel Mazarin",
+                    "phone": "+15045817300",
+                    "location": {
+                        "address1": "730 Bienville St",
+                        "city": "New Orleans",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 4.0,
+                    "review_count": 230,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        }
+                    ]
+                },
+                {
+                    "name": "New Orleans Marriott Metairie at Lakeway",
+                    "phone": "+15048365253",
+                    "location": {
+                        "address1": "3838 N Causeway Blvd",
+                        "city": "Metairie",
+                        "state": "LA",
+                        "country": "US"
+                    },
+                    "rating": 3.0,
+                    "review_count": 117,
+                    "price": "$$",
+                    "categories": [
+                        {
+                            "title": "Hotels"
+                        },
+                        {
+                            "title": "Venues & Event Spaces"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
